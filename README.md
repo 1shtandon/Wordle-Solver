@@ -12,6 +12,6 @@ Following three operations can be performed to filter out the words as per the c
 
 And.....  ✨Magic ✨    happens   !!!
 
-After certain guesses, the list helps you to take the best guess.
+The list helps you to take the best guess.
 
 [Link to all five letter words](https://meaningpedia.com/5-letter-words?show=all)
